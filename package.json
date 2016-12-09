@@ -1,0 +1,25 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "nodejs + mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyf2learn/My_Node_Project.git"
+  },
+  "author": "clickwang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyf2learn/My_Node_Project/issues"
+  },
+  "homepage": "https://github.com/wyf2learn/My_Node_Project#readme",
+  "dependencies": {
+    "ejs-mate": "^2.3.0",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "mongoose": "^4.7.0"
+  }
+}
